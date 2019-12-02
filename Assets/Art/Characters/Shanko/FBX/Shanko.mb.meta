@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 137c178695b2f4a8fbe163045eea12c8
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Shanko_Rig:arm_L_1_jnt
+  - first:
+      1: 100004
+    second: Shanko_Rig:arm_L_2_jnt
+  - first:
+      1: 100006
+    second: Shanko_Rig:arm_L_3_jnt
+  - first:
+      1: 100008
+    second: Shanko_Rig:arm_L_4_jnt
+  - first:
+      1: 100010
+    second: Shanko_Rig:arm_L_5_jnt
+  - first:
+      1: 100012
+    second: Shanko_Rig:arm_L_geo
+  - first:
+      1: 100014
+    second: Shanko_Rig:arm_R_1_jnt
+  - first:
+      1: 100016
+    second: Shanko_Rig:arm_R_2_jnt
+  - first:
+      1: 100018
+    second: Shanko_Rig:arm_R_3_jnt
+  - first:
+      1: 100020
+    second: Shanko_Rig:arm_R_4_jnt
+  - first:
+      1: 100022
+    second: Shanko_Rig:arm_R_5_jnt
+  - first:
+      1: 100024
+    second: Shanko_Rig:arm_R_geo
+  - first:
+      1: 100026
+    second: Shanko_Rig:body_geo
+  - first:
+      1: 100028
+    second: Shanko_Rig:body_geo_grp
+  - first:
+      1: 100030
+    second: Shanko_Rig:ear_L_geo
+  - first:
+      1: 100032
+    second: Shanko_Rig:ear_L_geo_grp
+  - first:
+      1: 100034
+    second: Shanko_Rig:ear_R_geo
+  - first:
+      1: 100036
+    second: Shanko_Rig:ear_R_geo_grp
+  - first:
+      1: 100038
+    second: Shanko_Rig:eye_L_brow_geo
+  - first:
+      1: 100040
+    second: Shanko_Rig:eye_L_brow_geo_grp
+  - first:
+      1: 100042
+    second: Shanko_Rig:eye_L_pupil_geo
+  - first:
+      1: 100044
+    second: Shanko_Rig:eye_L_pupil_geo_grp
+  - first:
+      1: 100046
+    second: Shanko_Rig:eye_L_pupil_jnt
+  - first:
+      1: 100048
+    second: Shanko_Rig:eye_L_white_geo
+  - first:
+      1: 100050
+    second: Shanko_Rig:eye_L_white_geo_grp
+  - first:
+      1: 100052
+    second: Shanko_Rig:eye_L_white_jnt
+  - first:
+      1: 100054
+    second: Shanko_Rig:eye_R_brow_geo
+  - first:
+      1: 100056
+    second: Shanko_Rig:eye_R_brow_geo_grp
+  - first:
+      1: 100058
+    second: Shanko_Rig:eye_R_pupil_geo
+  - first:
+      1: 100060
+    second: Shanko_Rig:eye_R_pupil_geo_grp
+  - first:
+      1: 100062
+    second: Shanko_Rig:eye_R_pupil_jnt
+  - first:
+      1: 100064
+    second: Shanko_Rig:eye_R_white_geo
+  - first:
+      1: 100066
+    second: Shanko_Rig:eye_R_white_geo_grp
+  - first:
+      1: 100068
+    second: Shanko_Rig:eye_R_white_jnt
+  - first:
+      1: 100070
+    second: Shanko_Rig:eyeLid_L_lower_geo
+  - first:
+      1: 100072
+    second: Shanko_Rig:eyeLid_L_lower_geo_grp
+  - first:
+      1: 100074
+    second: Shanko_Rig:eyeLid_L_upper_geo
+  - first:
+      1: 100076
+    second: Shanko_Rig:eyeLid_L_upper_geo_grp
+  - first:
+      1: 100078
+    second: Shanko_Rig:eyeLid_R_lower_geo
+  - first:
+      1: 100080
+    second: Shanko_Rig:eyeLid_R_lower_geo_grp
+  - first:
+      1: 100082
+    second: Shanko_Rig:eyeLid_R_upper_geo
+  - first:
+      1: 100084
+    second: Shanko_Rig:eyeLid_R_upper_geo_grp
+  - first:
+      1: 100086
+    second: Shanko_Rig:foot_L_cntrl
+  - first:
+      1: 100088
+    second: Shanko_Rig:foot_L_cntrl_grp
+  - first:
+      1: 100090
+    second: Shanko_Rig:foot_L_geo
+  - first:
+      1: 100092
+    second: Shanko_Rig:foot_L_geo_grp
+  - first:
+      1: 100094
+    second: Shanko_Rig:foot_R_cntrl
+  - first:
+      1: 100096
+    second: Shanko_Rig:foot_R_cntrl_grp
+  - first:
+      1: 100098
+    second: Shanko_Rig:foot_R_geo
+  - first:
+      1: 100100
+    second: Shanko_Rig:foot_R_geo_grp
+  - first:
+      1: 100102
+    second: Shanko_Rig:geo_all_grp
+  - first:
+      1: 100104
+    second: Shanko_Rig:geo_nonSkinned_grp
+  - first:
+      1: 100106
+    second: Shanko_Rig:geo_skinned_grp
+  - first:
+      1: 100108
+    second: Shanko_Rig:hair_lefr_geo
+  - first:
+      1: 100110
+    second: Shanko_Rig:hair_lefr_geo_grp
+  - first:
+      1: 100112
+    second: Shanko_Rig:hair_middle_geo
+  - first:
+      1: 100114
+    second: Shanko_Rig:hair_middle_geo_grp
+  - first:
+      1: 100116
+    second: Shanko_Rig:hair_right_geo
+  - first:
+      1: 100118
+    second: Shanko_Rig:hair_right_geo_grp
+  - first:
+      1: 100120
+    second: Shanko_Rig:hand_L_all_geo_grp
+  - first:
+      1: 100122
+    second: Shanko_Rig:hand_L_fist_geo
+  - first:
+      1: 100124
+    second: Shanko_Rig:hand_L_fist_geo_grp
+  - first:
+      1: 100126
+    second: Shanko_Rig:hand_L_open_geo
+  - first:
+      1: 100128
+    second: Shanko_Rig:hand_L_open_geo_grp
+  - first:
+      1: 100130
+    second: Shanko_Rig:hand_L_point_geo
+  - first:
+      1: 100132
+    second: Shanko_Rig:hand_L_point_geo_grp
+  - first:
+      1: 100134
+    second: Shanko_Rig:hand_L_relaxed_geo
+  - first:
+      1: 100136
+    second: Shanko_Rig:hand_L_relaxed_geo_grp
+  - first:
+      1: 100138
+    second: Shanko_Rig:hand_R_all_geo_grp
+  - first:
+      1: 100140
+    second: Shanko_Rig:hand_R_fist_geo
+  - first:
+      1: 100142
+    second: Shanko_Rig:hand_R_fist_geo_grp
+  - first:
+      1: 100144
+    second: Shanko_Rig:hand_R_open_geo
+  - first:
+      1: 100146
+    second: Shanko_Rig:hand_R_open_geo_grp
+  - first:
+      1: 100148
+    second: Shanko_Rig:hand_R_point_geo
+  - first:
+      1: 100150
+    second: Shanko_Rig:hand_R_point_geo_grp
+  - first:
+      1: 100152
+    second: Shanko_Rig:hand_R_relaxed_geo
+  - first:
+      1: 100154
+    second: Shanko_Rig:hand_R_relaxed_geo_grp
+  - first:
+      1: 100156
+    second: Shanko_Rig:head_back_geo
+  - first:
+      1: 100158
+    second: Shanko_Rig:head_back_geo_grp
+  - first:
+      1: 100160
+    second: Shanko_Rig:head_jnt
+  - first:
+      1: 100162
+    second: Shanko_Rig:head_mouth_geo
+  - first:
+      1: 100164
+    second: Shanko_Rig:head_mouth_geo_grp
+  - first:
+      1: 100166
+    second: Shanko_Rig:ikHandle1
+  - first:
+      1: 100168
+    second: Shanko_Rig:ikHandle2
+  - first:
+      1: 100170
+    second: Shanko_Rig:leg_L_1_jnt
+  - first:
+      1: 100172
+    second: Shanko_Rig:leg_L_2_jnt
+  - first:
+      1: 100174
+    second: Shanko_Rig:leg_L_3_jnt
+  - first:
+      1: 100176
+    second: Shanko_Rig:leg_L_4_jnt
+  - first:
+      1: 100178
+    second: Shanko_Rig:leg_L_geo
+  - first:
+      1: 100180
+    second: Shanko_Rig:leg_R_1_jnt
+  - first:
+      1: 100182
+    second: Shanko_Rig:leg_R_2_jnt
+  - first:
+      1: 100184
+    second: Shanko_Rig:leg_R_3_jnt
+  - first:
+      1: 100186
+    second: Shanko_Rig:leg_R_4_jnt
+  - first:
+      1: 100188
+    second: Shanko_Rig:leg_R_geo
+  - first:
+      1: 100190
+    second: Shanko_Rig:root_jnt
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Shanko_Rig:arm_L_1_jnt
+  - first:
+      4: 400004
+    second: Shanko_Rig:arm_L_2_jnt
+  - first:
+      4: 400006
+    second: Shanko_Rig:arm_L_3_jnt
+  - first:
+      4: 400008
+    second: Shanko_Rig:arm_L_4_jnt
+  - first:
+      4: 400010
+    second: Shanko_Rig:arm_L_5_jnt
+  - first:
+      4: 400012
+    second: Shanko_Rig:arm_L_geo
+  - first:
+      4: 400014
+    second: Shanko_Rig:arm_R_1_jnt
+  - first:
+      4: 400016
+    second: Shanko_Rig:arm_R_2_jnt
+  - first:
+      4: 400018
+    second: Shanko_Rig:arm_R_3_jnt
+  - first:
+      4: 400020
+    second: Shanko_Rig:arm_R_4_jnt
+  - first:
+      4: 400022
+    second: Shanko_Rig:arm_R_5_jnt
+  - first:
+      4: 400024
+    second: Shanko_Rig:arm_R_geo
+  - first:
+      4: 400026
+    second: Shanko_Rig:body_geo
+  - first:
+      4: 400028
+    second: Shanko_Rig:body_geo_grp
+  - first:
+      4: 400030
+    second: Shanko_Rig:ear_L_geo
+  - first:
+      4: 400032
+    second: Shanko_Rig:ear_L_geo_grp
+  - first:
+      4: 400034
+    second: Shanko_Rig:ear_R_geo
+  - first:
+      4: 400036
+    second: Shanko_Rig:ear_R_geo_grp
+  - first:
+      4: 400038
+    second: Shanko_Rig:eye_L_brow_geo
+  - first:
+      4: 400040
+    second: Shanko_Rig:eye_L_brow_geo_grp
+  - first:
+      4: 400042
+    second: Shanko_Rig:eye_L_pupil_geo
+  - first:
+      4: 400044
+    second: Shanko_Rig:eye_L_pupil_geo_grp
+  - first:
+      4: 400046
+    second: Shanko_Rig:eye_L_pupil_jnt
+  - first:
+      4: 400048
+    second: Shanko_Rig:eye_L_white_geo
+  - first:
+      4: 400050
+    second: Shanko_Rig:eye_L_white_geo_grp
+  - first:
+      4: 400052
+    second: Shanko_Rig:eye_L_white_jnt
+  - first:
+      4: 400054
+    second: Shanko_Rig:eye_R_brow_geo
+  - first:
+      4: 400056
+    second: Shanko_Rig:eye_R_brow_geo_grp
+  - first:
+      4: 400058
+    second: Shanko_Rig:eye_R_pupil_geo
+  - first:
+      4: 400060
+    second: Shanko_Rig:eye_R_pupil_geo_grp
+  - first:
+      4: 400062
+    second: Shanko_Rig:eye_R_pupil_jnt
+  - first:
+      4: 400064
+    second: Shanko_Rig:eye_R_white_geo
+  - first:
+      4: 400066
+    second: Shanko_Rig:eye_R_white_geo_grp
+  - first:
+      4: 400068
+    second: Shanko_Rig:eye_R_white_jnt
+  - first:
+      4: 400070
+    second: Shanko_Rig:eyeLid_L_lower_geo
+  - first:
+      4: 400072
+    second: Shanko_Rig:eyeLid_L_lower_geo_grp
+  - first:
+      4: 400074
+    second: Shanko_Rig:eyeLid_L_upper_geo
+  - first:
+      4: 400076
+    second: Shanko_Rig:eyeLid_L_upper_geo_grp
+  - first:
+      4: 400078
+    second: Shanko_Rig:eyeLid_R_lower_geo
+  - first:
+      4: 400080
+    second: Shanko_Rig:eyeLid_R_lower_geo_grp
+  - first:
+      4: 400082
+    second: Shanko_Rig:eyeLid_R_upper_geo
+  - first:
+      4: 400084
+    second: Shanko_Rig:eyeLid_R_upper_geo_grp
+  - first:
+      4: 400086
+    second: Shanko_Rig:foot_L_cntrl
+  - first:
+      4: 400088
+    second: Shanko_Rig:foot_L_cntrl_grp
+  - first:
+      4: 400090
+    second: Shanko_Rig:foot_L_geo
+  - first:
+      4: 400092
+    second: Shanko_Rig:foot_L_geo_grp
+  - first:
+      4: 400094
+    second: Shanko_Rig:foot_R_cntrl
+  - first:
+      4: 400096
+    second: Shanko_Rig:foot_R_cntrl_grp
+  - first:
+      4: 400098
+    second: Shanko_Rig:foot_R_geo
+  - first:
+      4: 400100
+    second: Shanko_Rig:foot_R_geo_grp
+  - first:
+      4: 400102
+    second: Shanko_Rig:geo_all_grp
+  - first:
+      4: 400104
+    second: Shanko_Rig:geo_nonSkinned_grp
+  - first:
+      4: 400106
+    second: Shanko_Rig:geo_skinned_grp
+  - first:
+      4: 400108
+    second: Shanko_Rig:hair_lefr_geo
+  - first:
+      4: 400110
+    second: Shanko_Rig:hair_lefr_geo_grp
+  - first:
+      4: 400112
+    second: Shanko_Rig:hair_middle_geo
+  - first:
+      4: 400114
+    second: Shanko_Rig:hair_middle_geo_grp
+  - first:
+      4: 400116
+    second: Shanko_Rig:hair_right_geo
+  - first:
+      4: 400118
+    second: Shanko_Rig:hair_right_geo_grp
+  - first:
+      4: 400120
+    second: Shanko_Rig:hand_L_all_geo_grp
+  - first:
+      4: 400122
+    second: Shanko_Rig:hand_L_fist_geo
+  - first:
+      4: 400124
+    second: Shanko_Rig:hand_L_fist_geo_grp
+  - first:
+      4: 400126
+    second: Shanko_Rig:hand_L_open_geo
+  - first:
+      4: 400128
+    second: Shanko_Rig:hand_L_open_geo_grp
+  - first:
+      4: 400130
+    second: Shanko_Rig:hand_L_point_geo
+  - first:
+      4: 400132
+    second: Shanko_Rig:hand_L_point_geo_grp
+  - first:
+      4: 400134
+    second: Shanko_Rig:hand_L_relaxed_geo
+  - first:
+      4: 400136
+    second: Shanko_Rig:hand_L_relaxed_geo_grp
+  - first:
+      4: 400138
+    second: Shanko_Rig:hand_R_all_geo_grp
+  - first:
+      4: 400140
+    second: Shanko_Rig:hand_R_fist_geo
+  - first:
+      4: 400142
+    second: Shanko_Rig:hand_R_fist_geo_grp
+  - first:
+      4: 400144
+    second: Shanko_Rig:hand_R_open_geo
+  - first:
+      4: 400146
+    second: Shanko_Rig:hand_R_open_geo_grp
+  - first:
+      4: 400148
+    second: Shanko_Rig:hand_R_point_geo
+  - first:
+      4: 400150
+    second: Shanko_Rig:hand_R_point_geo_grp
+  - first:
+      4: 400152
+    second: Shanko_Rig:hand_R_relaxed_geo
+  - first:
+      4: 400154
+    second: Shanko_Rig:hand_R_relaxed_geo_grp
+  - first:
+      4: 400156
+    second: Shanko_Rig:head_back_geo
+  - first:
+      4: 400158
+    second: Shanko_Rig:head_back_geo_grp
+  - first:
+      4: 400160
+    second: Shanko_Rig:head_jnt
+  - first:
+      4: 400162
+    second: Shanko_Rig:head_mouth_geo
+  - first:
+      4: 400164
+    second: Shanko_Rig:head_mouth_geo_grp
+  - first:
+      4: 400166
+    second: Shanko_Rig:ikHandle1
+  - first:
+      4: 400168
+    second: Shanko_Rig:ikHandle2
+  - first:
+      4: 400170
+    second: Shanko_Rig:leg_L_1_jnt
+  - first:
+      4: 400172
+    second: Shanko_Rig:leg_L_2_jnt
+  - first:
+      4: 400174
+    second: Shanko_Rig:leg_L_3_jnt
+  - first:
+      4: 400176
+    second: Shanko_Rig:leg_L_4_jnt
+  - first:
+      4: 400178
+    second: Shanko_Rig:leg_L_geo
+  - first:
+      4: 400180
+    second: Shanko_Rig:leg_R_1_jnt
+  - first:
+      4: 400182
+    second: Shanko_Rig:leg_R_2_jnt
+  - first:
+      4: 400184
+    second: Shanko_Rig:leg_R_3_jnt
+  - first:
+      4: 400186
+    second: Shanko_Rig:leg_R_4_jnt
+  - first:
+      4: 400188
+    second: Shanko_Rig:leg_R_geo
+  - first:
+      4: 400190
+    second: Shanko_Rig:root_jnt
+  - first:
+      23: 2300000
+    second: Shanko_Rig:body_geo
+  - first:
+      23: 2300002
+    second: Shanko_Rig:ear_L_geo
+  - first:
+      23: 2300004
+    second: Shanko_Rig:ear_R_geo
+  - first:
+      23: 2300006
+    second: Shanko_Rig:eye_L_brow_geo
+  - first:
+      23: 2300008
+    second: Shanko_Rig:eye_L_pupil_geo
+  - first:
+      23: 2300010
+    second: Shanko_Rig:eye_L_white_geo
+  - first:
+      23: 2300012
+    second: Shanko_Rig:eye_R_brow_geo
+  - first:
+      23: 2300014
+    second: Shanko_Rig:eye_R_pupil_geo
+  - first:
+      23: 2300016
+    second: Shanko_Rig:eye_R_white_geo
+  - first:
+      23: 2300018
+    second: Shanko_Rig:eyeLid_L_lower_geo
+  - first:
+      23: 2300020
+    second: Shanko_Rig:eyeLid_L_upper_geo
+  - first:
+      23: 2300022
+    second: Shanko_Rig:eyeLid_R_lower_geo
+  - first:
+      23: 2300024
+    second: Shanko_Rig:eyeLid_R_upper_geo
+  - first:
+      23: 2300026
+    second: Shanko_Rig:foot_L_geo
+  - first:
+      23: 2300028
+    second: Shanko_Rig:foot_R_geo
+  - first:
+      23: 2300030
+    second: Shanko_Rig:hair_lefr_geo
+  - first:
+      23: 2300032
+    second: Shanko_Rig:hair_middle_geo
+  - first:
+      23: 2300034
+    second: Shanko_Rig:hair_right_geo
+  - first:
+      23: 2300036
+    second: Shanko_Rig:hand_L_fist_geo
+  - first:
+      23: 2300038
+    second: Shanko_Rig:hand_L_open_geo
+  - first:
+      23: 2300040
+    second: Shanko_Rig:hand_L_point_geo
+  - first:
+      23: 2300042
+    second: Shanko_Rig:hand_L_relaxed_geo
+  - first:
+      23: 2300044
+    second: Shanko_Rig:hand_R_fist_geo
+  - first:
+      23: 2300046
+    second: Shanko_Rig:hand_R_open_geo
+  - first:
+      23: 2300048
+    second: Shanko_Rig:hand_R_point_geo
+  - first:
+      23: 2300050
+    second: Shanko_Rig:hand_R_relaxed_geo
+  - first:
+      23: 2300052
+    second: Shanko_Rig:head_back_geo
+  - first:
+      23: 2300054
+    second: Shanko_Rig:head_mouth_geo
+  - first:
+      23: 2300056
+    second: Shanko_Rig:arm_L_geo
+  - first:
+      23: 2300058
+    second: Shanko_Rig:arm_R_geo
+  - first:
+      23: 2300060
+    second: Shanko_Rig:leg_L_geo
+  - first:
+      23: 2300062
+    second: Shanko_Rig:leg_R_geo
+  - first:
+      33: 3300000
+    second: Shanko_Rig:body_geo
+  - first:
+      33: 3300002
+    second: Shanko_Rig:ear_L_geo
+  - first:
+      33: 3300004
+    second: Shanko_Rig:ear_R_geo
+  - first:
+      33: 3300006
+    second: Shanko_Rig:eye_L_brow_geo
+  - first:
+      33: 3300008
+    second: Shanko_Rig:eye_L_pupil_geo
+  - first:
+      33: 3300010
+    second: Shanko_Rig:eye_L_white_geo
+  - first:
+      33: 3300012
+    second: Shanko_Rig:eye_R_brow_geo
+  - first:
+      33: 3300014
+    second: Shanko_Rig:eye_R_pupil_geo
+  - first:
+      33: 3300016
+    second: Shanko_Rig:eye_R_white_geo
+  - first:
+      33: 3300018
+    second: Shanko_Rig:eyeLid_L_lower_geo
+  - first:
+      33: 3300020
+    second: Shanko_Rig:eyeLid_L_upper_geo
+  - first:
+      33: 3300022
+    second: Shanko_Rig:eyeLid_R_lower_geo
+  - first:
+      33: 3300024
+    second: Shanko_Rig:eyeLid_R_upper_geo
+  - first:
+      33: 3300026
+    second: Shanko_Rig:foot_L_geo
+  - first:
+      33: 3300028
+    second: Shanko_Rig:foot_R_geo
+  - first:
+      33: 3300030
+    second: Shanko_Rig:hair_lefr_geo
+  - first:
+      33: 3300032
+    second: Shanko_Rig:hair_middle_geo
+  - first:
+      33: 3300034
+    second: Shanko_Rig:hair_right_geo
+  - first:
+      33: 3300036
+    second: Shanko_Rig:hand_L_fist_geo
+  - first:
+      33: 3300038
+    second: Shanko_Rig:hand_L_open_geo
+  - first:
+      33: 3300040
+    second: Shanko_Rig:hand_L_point_geo
+  - first:
+      33: 3300042
+    second: Shanko_Rig:hand_L_relaxed_geo
+  - first:
+      33: 3300044
+    second: Shanko_Rig:hand_R_fist_geo
+  - first:
+      33: 3300046
+    second: Shanko_Rig:hand_R_open_geo
+  - first:
+      33: 3300048
+    second: Shanko_Rig:hand_R_point_geo
+  - first:
+      33: 3300050
+    second: Shanko_Rig:hand_R_relaxed_geo
+  - first:
+      33: 3300052
+    second: Shanko_Rig:head_back_geo
+  - first:
+      33: 3300054
+    second: Shanko_Rig:head_mouth_geo
+  - first:
+      33: 3300056
+    second: Shanko_Rig:arm_L_geo
+  - first:
+      33: 3300058
+    second: Shanko_Rig:arm_R_geo
+  - first:
+      33: 3300060
+    second: Shanko_Rig:leg_L_geo
+  - first:
+      33: 3300062
+    second: Shanko_Rig:leg_R_geo
+  - first:
+      43: 4300000
+    second: Shanko_Rig:arm_L_geo
+  - first:
+      43: 4300002
+    second: Shanko_Rig:arm_R_geo
+  - first:
+      43: 4300004
+    second: Shanko_Rig:leg_L_geo
+  - first:
+      43: 4300006
+    second: Shanko_Rig:leg_R_geo
+  - first:
+      43: 4300008
+    second: Shanko_Rig:head_back_geo
+  - first:
+      43: 4300010
+    second: Shanko_Rig:eye_L_white_geo
+  - first:
+      43: 4300012
+    second: Shanko_Rig:eye_L_pupil_geo
+  - first:
+      43: 4300014
+    second: Shanko_Rig:eyeLid_L_upper_geo
+  - first:
+      43: 4300016
+    second: Shanko_Rig:eyeLid_L_lower_geo
+  - first:
+      43: 4300018
+    second: Shanko_Rig:eye_R_white_geo
+  - first:
+      43: 4300020
+    second: Shanko_Rig:eyeLid_R_upper_geo
+  - first:
+      43: 4300022
+    second: Shanko_Rig:eyeLid_R_lower_geo
+  - first:
+      43: 4300024
+    second: Shanko_Rig:eye_R_pupil_geo
+  - first:
+      43: 4300026
+    second: Shanko_Rig:head_mouth_geo
+  - first:
+      43: 4300028
+    second: Shanko_Rig:ear_L_geo
+  - first:
+      43: 4300030
+    second: Shanko_Rig:ear_R_geo
+  - first:
+      43: 4300032
+    second: Shanko_Rig:eye_L_brow_geo
+  - first:
+      43: 4300034
+    second: Shanko_Rig:eye_R_brow_geo
+  - first:
+      43: 4300036
+    second: Shanko_Rig:hair_middle_geo
+  - first:
+      43: 4300038
+    second: Shanko_Rig:hair_lefr_geo
+  - first:
+      43: 4300040
+    second: Shanko_Rig:hair_right_geo
+  - first:
+      43: 4300042
+    second: Shanko_Rig:body_geo
+  - first:
+      43: 4300044
+    second: Shanko_Rig:foot_L_geo
+  - first:
+      43: 4300046
+    second: Shanko_Rig:foot_R_geo
+  - first:
+      43: 4300048
+    second: Shanko_Rig:hand_L_relaxed_geo
+  - first:
+      43: 4300050
+    second: Shanko_Rig:hand_L_fist_geo
+  - first:
+      43: 4300052
+    second: Shanko_Rig:hand_L_open_geo
+  - first:
+      43: 4300054
+    second: Shanko_Rig:hand_L_point_geo
+  - first:
+      43: 4300056
+    second: Shanko_Rig:hand_R_relaxed_geo
+  - first:
+      43: 4300058
+    second: Shanko_Rig:hand_R_fist_geo
+  - first:
+      43: 4300060
+    second: Shanko_Rig:hand_R_open_geo
+  - first:
+      43: 4300062
+    second: Shanko_Rig:hand_R_point_geo
+  - first:
+      74: 7400000
+    second: static
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Shanko_Rig:arm_L_geo
+  - first:
+      137: 13700002
+    second: Shanko_Rig:arm_R_geo
+  - first:
+      137: 13700004
+    second: Shanko_Rig:leg_L_geo
+  - first:
+      137: 13700006
+    second: Shanko_Rig:leg_R_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: static
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0.9
+      lastFrame: 1
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Shanko_Rig:foot_L_cntrl_grp
+        weight: 1
+      - path: Shanko_Rig:foot_L_cntrl_grp/Shanko_Rig:foot_L_cntrl
+        weight: 1
+      - path: Shanko_Rig:foot_R_cntrl_grp
+        weight: 1
+      - path: Shanko_Rig:foot_R_cntrl_grp/Shanko_Rig:foot_R_cntrl
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:body_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:body_geo_grp/Shanko_Rig:body_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:foot_L_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:foot_L_geo_grp/Shanko_Rig:foot_L_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:foot_R_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:foot_R_geo_grp/Shanko_Rig:foot_R_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:ear_L_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:ear_L_geo_grp/Shanko_Rig:ear_L_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:ear_R_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:ear_R_geo_grp/Shanko_Rig:ear_R_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_brow_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_brow_geo_grp/Shanko_Rig:eye_L_brow_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo/Shanko_Rig:eye_L_pupil_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo/Shanko_Rig:eye_L_pupil_geo_grp/Shanko_Rig:eye_L_pupil_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo/Shanko_Rig:eyeLid_L_lower_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo/Shanko_Rig:eyeLid_L_lower_geo_grp/Shanko_Rig:eyeLid_L_lower_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo/Shanko_Rig:eyeLid_L_upper_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_L_white_geo_grp/Shanko_Rig:eye_L_white_geo/Shanko_Rig:eyeLid_L_upper_geo_grp/Shanko_Rig:eyeLid_L_upper_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_brow_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_brow_geo_grp/Shanko_Rig:eye_R_brow_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo/Shanko_Rig:eye_R_pupil_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo/Shanko_Rig:eye_R_pupil_geo_grp/Shanko_Rig:eye_R_pupil_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo/Shanko_Rig:eyeLid_R_lower_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo/Shanko_Rig:eyeLid_R_lower_geo_grp/Shanko_Rig:eyeLid_R_lower_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo/Shanko_Rig:eyeLid_R_upper_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:eye_R_white_geo_grp/Shanko_Rig:eye_R_white_geo/Shanko_Rig:eyeLid_R_upper_geo_grp/Shanko_Rig:eyeLid_R_upper_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:hair_lefr_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:hair_lefr_geo_grp/Shanko_Rig:hair_lefr_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:hair_middle_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:hair_middle_geo_grp/Shanko_Rig:hair_middle_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:hair_right_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:hair_right_geo_grp/Shanko_Rig:hair_right_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:head_mouth_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_nonSkinned_grp/Shanko_Rig:head_back_geo_grp/Shanko_Rig:head_back_geo/Shanko_Rig:head_mouth_geo_grp/Shanko_Rig:head_mouth_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_skinned_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_skinned_grp/Shanko_Rig:arm_L_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_skinned_grp/Shanko_Rig:arm_R_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_skinned_grp/Shanko_Rig:leg_L_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:geo_skinned_grp/Shanko_Rig:leg_R_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_fist_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_fist_geo_grp/Shanko_Rig:hand_L_fist_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_open_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_open_geo_grp/Shanko_Rig:hand_L_open_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_point_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_point_geo_grp/Shanko_Rig:hand_L_point_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_relaxed_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_L_all_geo_grp/Shanko_Rig:hand_L_relaxed_geo_grp/Shanko_Rig:hand_L_relaxed_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_fist_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_fist_geo_grp/Shanko_Rig:hand_R_fist_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_open_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_open_geo_grp/Shanko_Rig:hand_R_open_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_point_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_point_geo_grp/Shanko_Rig:hand_R_point_geo
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_relaxed_geo_grp
+        weight: 1
+      - path: Shanko_Rig:geo_all_grp/Shanko_Rig:hand_R_all_geo_grp/Shanko_Rig:hand_R_relaxed_geo_grp/Shanko_Rig:hand_R_relaxed_geo
+        weight: 1
+      - path: Shanko_Rig:ikHandle1
+        weight: 1
+      - path: Shanko_Rig:ikHandle2
+        weight: 1
+      - path: Shanko_Rig:root_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_L_1_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_L_1_jnt/Shanko_Rig:arm_L_2_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_L_1_jnt/Shanko_Rig:arm_L_2_jnt/Shanko_Rig:arm_L_3_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_L_1_jnt/Shanko_Rig:arm_L_2_jnt/Shanko_Rig:arm_L_3_jnt/Shanko_Rig:arm_L_4_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_L_1_jnt/Shanko_Rig:arm_L_2_jnt/Shanko_Rig:arm_L_3_jnt/Shanko_Rig:arm_L_4_jnt/Shanko_Rig:arm_L_5_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_R_1_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_R_1_jnt/Shanko_Rig:arm_R_2_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_R_1_jnt/Shanko_Rig:arm_R_2_jnt/Shanko_Rig:arm_R_3_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_R_1_jnt/Shanko_Rig:arm_R_2_jnt/Shanko_Rig:arm_R_3_jnt/Shanko_Rig:arm_R_4_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:arm_R_1_jnt/Shanko_Rig:arm_R_2_jnt/Shanko_Rig:arm_R_3_jnt/Shanko_Rig:arm_R_4_jnt/Shanko_Rig:arm_R_5_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:head_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:head_jnt/Shanko_Rig:eye_L_white_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:head_jnt/Shanko_Rig:eye_L_white_jnt/Shanko_Rig:eye_L_pupil_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:head_jnt/Shanko_Rig:eye_R_white_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:head_jnt/Shanko_Rig:eye_R_white_jnt/Shanko_Rig:eye_R_pupil_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_L_1_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_L_1_jnt/Shanko_Rig:leg_L_2_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_L_1_jnt/Shanko_Rig:leg_L_2_jnt/Shanko_Rig:leg_L_3_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_L_1_jnt/Shanko_Rig:leg_L_2_jnt/Shanko_Rig:leg_L_3_jnt/Shanko_Rig:leg_L_4_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_R_1_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_R_1_jnt/Shanko_Rig:leg_R_2_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_R_1_jnt/Shanko_Rig:leg_R_2_jnt/Shanko_Rig:leg_R_3_jnt
+        weight: 1
+      - path: Shanko_Rig:root_jnt/Shanko_Rig:leg_R_1_jnt/Shanko_Rig:leg_R_2_jnt/Shanko_Rig:leg_R_3_jnt/Shanko_Rig:leg_R_4_jnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 2a532819c4756422b985200f22034ed9
+  - d747941419d3644e88202cea4f74f939
+  - 3f43cf5dff66941fc96415bf56404b84
+  - 6252eac3ff2eb41ebb975d4ea9d98147
+  - 85ed04cbbdbab47ef9dd074df001a25a
+  - 719c3aea83a9141fea42bfa2eab6ec60
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.03
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

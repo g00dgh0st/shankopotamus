@@ -1,0 +1,19 @@
+# Unity .gitignore file.
+.DS_Store
+Library
+Library/*
+*.csproj
+*.sln
+*.userprefs
+Temp
+*.pidb
+Build
+
+Assembly-UnityScript-Editor-vs.unityproj
+Assembly-UnityScript-Editor.unityproj
+Assembly-UnityScript-firstpass-vs.unityproj
+Assembly-UnityScript-firstpass.unityproj
+Assembly-UnityScript-vs.unityproj
+Assembly-UnityScript.unityproj
+progress.exe
+progress.exe.zip

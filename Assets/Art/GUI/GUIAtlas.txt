@@ -1,0 +1,92 @@
+{"frames": {
+
+"BlackBG.png":
+{
+	"frame": {"x":222,"y":2,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"ChatCursor.png":
+{
+	"frame": {"x":354,"y":115,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"CloseIcon.png":
+{
+	"frame": {"x":2,"y":126,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"DoorCursor.png":
+{
+	"frame": {"x":216,"y":134,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"EyeCursor.png":
+{
+	"frame": {"x":328,"y":227,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"Fade.png":
+{
+	"frame": {"x":114,"y":126,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"FingerCursor.png":
+{
+	"frame": {"x":2,"y":339,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"HandCursor.png":
+{
+	"frame": {"x":354,"y":2,"w":110,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":111},
+	"sourceSize": {"w":110,"h":111}
+},
+"PointerCursor.png":
+{
+	"frame": {"x":114,"y":339,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"speechbubl.png":
+{
+	"frame": {"x":2,"y":2,"w":218,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":122},
+	"sourceSize": {"w":218,"h":122}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GUIAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:55df2675e93d753e813ec15783e6fc3e:6149ddd825f053365d71342fdf71d814:8824b5c9b6983bdacb06d9146278ae0e$"
+}
+}
